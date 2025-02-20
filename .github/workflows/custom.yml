@@ -36,7 +36,7 @@ jobs:
           force: true
 
       # Publicação do site no GitHub Pages
-      - uses: crazy-max/ghaction-github-pages@v2.3.1  # Atualizado para versão mais recente
+      - uses: crazy-max/ghaction-github-pages@v3  # Atualizado para versão mais recente
         with:
           target_branch: output
           build_dir: dist

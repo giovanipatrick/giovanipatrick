@@ -15,4 +15,3 @@
   <img align="center" alt="nginx" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" style="max-width: 100%;">
 </center>
 </div>
-![giovanipatrick's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giovanipatrick&theme=dark&show_icons=true&hide_border=true&layout=compact)
